@@ -1,0 +1,21 @@
+;;; Visual LISP make file [V1.0] Hole_table_V2_T3 saved to:[D:/CAD/Autolisp-Linh/User-guide] at:[6/10/21] 
+(PRV-DEF
+  (:target . "Hole_table_V2_T3.VLX")
+  (:active-x . T)
+  (:separate-namespace)
+  (:protected . T)
+  (:load-file-list
+    (:lsp
+      "D:/CAD/Autolisp-Linh/01. Check hole table for Thiet/Vidu5.LSP"
+    )
+  )
+  (:require-file-list
+    (:DCL
+      "D:/CAD/Autolisp-Linh/01. Check hole table for Thiet/Vidu5.DCL"
+    )
+  )
+  (:ob-directory)
+  (:tmp-directory)
+  (:optimization . st)
+)
+;; EOF
